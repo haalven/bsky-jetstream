@@ -1,2 +1,2 @@
-# jetstream
+# 🦋 jetstream
 Bluesky jetstream firehose
